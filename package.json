@@ -7,5 +7,10 @@
     "test": "echo 'No tests here, move along'"
   },
   "author": "Marcos Loureiro <mloureiro.dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.107.0",
+    "flow-remove-types": "^2.107.0",
+    "flow-typed": "^2.6.1"
+  }
 }
