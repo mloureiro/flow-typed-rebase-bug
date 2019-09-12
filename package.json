@@ -1,0 +1,11 @@
+{
+  "name": "flow-typed-rebase-bug",
+  "version": "1.0.0",
+  "description": "project to reproduce rebase issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests here, move along'"
+  },
+  "author": "Marcos Loureiro <mloureiro.dev@gmail.com>",
+  "license": "MIT"
+}
